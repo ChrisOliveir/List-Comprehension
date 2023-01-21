@@ -5,16 +5,8 @@ O list Comprehension é uma forma de iterar pelos elementos das listas de maneir
 
 Em resumo é como se fizesse o for em 1 linha de código
 
-### `find_element `
 
 
 
-
-
-
-
-
-
-### `find_elements `
 
 Veja mais em [Selenium with Python](https://selenium-python.readthedocs.io/)
